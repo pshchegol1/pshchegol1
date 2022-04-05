@@ -16,7 +16,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pshchegol1&show_icons=true&theme=theme_name)
 
-### :computer:
+### :computer: Skills:
 
 
 
