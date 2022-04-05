@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ### :smirk: ABOUT ME: 
 >Junior Software Developer with experience developing websites and software. Always willing to learn new technologies and improve my skills.
