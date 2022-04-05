@@ -15,8 +15,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pshchegol1&show_icons=true&theme=theme_name)
 
 ### :computer: SKILLS:
-
-![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 
 
