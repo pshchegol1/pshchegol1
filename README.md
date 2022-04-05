@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Header](https://github.com/pshchegol1/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
 
 
 <h3 align="left">Connect with me:</h3>
