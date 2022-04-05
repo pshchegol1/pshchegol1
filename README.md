@@ -13,4 +13,4 @@
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pshchegol1&layout=compact&theme=theme)
 
-![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pshchegol1&layout=compact&theme=theme_name)
+
