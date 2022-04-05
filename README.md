@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<hr/>
 ### :smirk: ABOUT ME: >Junior Software Developer with experience developing websites and software. Always willing to learn new technologies and improve my skills.
 
 <h3 align="left">Connect with me:</h3>
