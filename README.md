@@ -30,14 +30,4 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-<div class="footer-social-icons">
-    <h4 class="_14">Follow us on</h4>
-    <ul class="social-icons">
-        <li><a href="" class="social-icon"> <i class="fa fa-facebook"></i></a></li>
-        <li><a href="" class="social-icon"> <i class="fa fa-twitter"></i></a></li>
-        <li><a href="" class="social-icon"> <i class="fa fa-rss"></i></a></li>
-        <li><a href="" class="social-icon"> <i class="fa fa-youtube"></i></a></li>
-        <li><a href="" class="social-icon"> <i class="fa fa-linkedin"></i></a></li>
-        <li><a href="" class="social-icon"> <i class="fa fa-google-plus"></i></a></li>
-    </ul>
-</div>
+
