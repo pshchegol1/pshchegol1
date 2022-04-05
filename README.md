@@ -11,4 +11,4 @@
 </p>
 <hr/>
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/pshchegol1=pshchegol1&layout=compact&theme=theme)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pshchegol1&layout=compact&theme=theme)
