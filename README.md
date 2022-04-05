@@ -24,13 +24,13 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+<hr/>
 
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pshchegol1&layout=compact&theme=theme)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pshchegol1&show_icons=true&theme=theme_name)
-<hr/>
+
 ### :computer: SKILLS:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
