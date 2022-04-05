@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-### :smirk: ABOUT ME: Junior Software Developer with experience developing websites and software. Always willing to learn new technologies and improve my skills.
+### :smirk: ABOUT ME: 
+>Junior Software Developer with experience developing websites and software. Always willing to learn new technologies and improve my skills.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
