@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<hr/>
+
 
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pshchegol1&layout=compact&theme=theme)
