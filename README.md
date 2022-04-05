@@ -10,7 +10,7 @@
 <a href="https://vk.com/id_pavs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="" height="30" width="40" /></a>
 </p>
 <hr/>
-<div>
+
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pshchegol1&layout=compact&theme=theme)
-</div>
+
 
