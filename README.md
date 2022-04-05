@@ -14,9 +14,9 @@
 
 <p>
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pshchegol1&layout=compact&theme=theme)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pshchegol1&show_icons=true&theme=theme_name)
 </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pshchegol1&show_icons=true&theme=theme_name)
+
 
 
 
