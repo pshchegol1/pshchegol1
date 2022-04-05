@@ -11,3 +11,4 @@
 </p>
 <hr/>
 
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?pshchegol1=pshchegol1&layout=compact&theme=theme)
