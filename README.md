@@ -10,8 +10,10 @@
 <a href="https://vk.com/id_pavs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="" height="30" width="40" /></a>
 </p>
 <hr/>
-
-
+[ossite]: https://www.oshchegol-dev.com/
+[instagram]: https://www.instagram.com/oalexandr24/?hl=en
+[linkedin]: https://www.linkedin.com/in/oleksandrshchegol/
+<hr/>
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pshchegol1&layout=compact&theme=theme)
 
