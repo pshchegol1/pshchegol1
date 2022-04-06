@@ -53,9 +53,11 @@
 
 </div>
 
+<hr/>
+
 <div align="center">
 
- ###  :balloon: HOSTING
+ ###  :balloon: HOSTING:
 
 </div>
 
