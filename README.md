@@ -17,9 +17,7 @@
 
 </p>
 
-<div align="center">
-  <img align="right" src="https://komarev.com/ghpvc/?username=pshchegol1&label=Profile%20Views%20&color=AC1F21&style=for-the-badge" alt="Pavlo" />
-</div>
+
 
 <hr/>
 
