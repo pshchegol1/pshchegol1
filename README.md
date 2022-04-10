@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=pshchegol1&label=Profile%20Views%20&color=AC1F21&style=for-the-badge" alt="Pavlo" />
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
