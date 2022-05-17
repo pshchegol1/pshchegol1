@@ -4,7 +4,8 @@
 </div>
 
 ### :smirk: ABOUT ME: 
->  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Junior Software Developer with experience developing websites and software. Always willing to learn new technologies and improve my skills.
+>  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Junior Software Developer with a high understanding of new technologies. Moreover, intelligent, and hard-working are always willing to learn something new, 
+especially new technologies and development techniques. Supportive and dedicated team player that is always ready to work and efficiently resolve project issues.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
